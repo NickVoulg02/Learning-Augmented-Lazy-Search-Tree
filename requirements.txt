@@ -1,7 +1,7 @@
 kagglehub>=0.4.2
 pybind11>=3.0.1
 setuptools>=80.10.2
-torch==2.8.0
+torch==2.13.0
 optuna>=4.7.0
 numpy==1.26.4
 pandas>=2.3.3
